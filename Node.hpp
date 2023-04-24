@@ -1,8 +1,8 @@
 /* ************************************************************************
 > File Name:     Node.hpp
-> Author:        Yetao
-> Mail:          1020051524@njupt.edu.cn 
-> Created Time:  Mon June 6 2020
+> Author:        Ma haining 
+> Mail:          1221056004@njupt.edu.cn 
+> Created Time:  March 30 2023
 > Description:   class for skiplist node
  ************************************************************************/
 
